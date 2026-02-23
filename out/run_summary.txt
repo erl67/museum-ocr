@@ -20,3 +20,6 @@ Complete pages only:        out\output_complete_pages.csv
 Page counts:                out\page_counts.csv
 Needs review:               out\needs_review.csv
 Debug dumps:                out\ocr_text\page_###.txt
+
+=== CSV COLUMNS (ORDER) ===
+Page	Type	Accession	Code	Catalog	Deaccession	Date	Temp#	Genus	Species	PageComplete
