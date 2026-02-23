@@ -1,0 +1,23 @@
+=== OCR RUN SUMMARY ===
+
+Pages processed:          102
+Pages complete:           0/102 (0.00%)
+Pages flagged:            102
+
+=== ROW COUNTS ===
+Target rows (you expect): 16473
+Target rows (rule-based): 16473
+
+Extracted rows:           11263
+
+Missing vs rule-based:    5210
+Completion vs rule-based: 68.37%
+
+Missing vs your target:   5210
+Completion vs your target:68.37%
+
+Complete-page output:     out\output_complete_pages.csv
+All-rows output:          out\output_all_rows.csv
+Counts:                   out\page_counts.csv
+Needs review:             out\needs_review.csv
+Debug dumps:              out\ocr_text\page_###.txt
