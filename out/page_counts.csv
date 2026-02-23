@@ -18,14 +18,14 @@ Page,RowsExtracted,RowsExpected,PctComplete,Complete,Error,AttemptsUsed,ImageFil
 17,162,162,100.0,True,,1,JPEGS\17.jpg,out\ocr_text\page_017.txt
 18,162,162,100.0,True,,1,JPEGS\18.jpg,out\ocr_text\page_018.txt
 19,162,162,100.0,True,,1,JPEGS\19.jpg,out\ocr_text\page_019.txt
-20,158,162,97.53,False,COUNT_MISMATCH 158 != 162,6,JPEGS\20.jpg,out\ocr_text\page_020.txt
+20,162,162,100.0,True,,1,JPEGS\20.jpg,out\ocr_text\page_020.txt
 21,162,162,100.0,True,,1,JPEGS\21.jpg,out\ocr_text\page_021.txt
 22,162,162,100.0,True,,1,JPEGS\22.jpg,out\ocr_text\page_022.txt
 23,162,162,100.0,True,,1,JPEGS\23.jpg,out\ocr_text\page_023.txt
 24,162,162,100.0,True,,1,JPEGS\24.jpg,out\ocr_text\page_024.txt
 25,162,162,100.0,True,,1,JPEGS\25.jpg,out\ocr_text\page_025.txt
 26,162,162,100.0,True,,1,JPEGS\26.jpg,out\ocr_text\page_026.txt
-27,160,162,98.77,False,COUNT_MISMATCH 160 != 162,6,JPEGS\27.jpg,out\ocr_text\page_027.txt
+27,162,162,100.0,True,,1,JPEGS\27.jpg,out\ocr_text\page_027.txt
 28,162,162,100.0,True,,1,JPEGS\28.jpg,out\ocr_text\page_028.txt
 29,162,162,100.0,True,,1,JPEGS\29.jpg,out\ocr_text\page_029.txt
 30,162,162,100.0,True,,1,JPEGS\30.jpg,out\ocr_text\page_030.txt
@@ -51,7 +51,7 @@ Page,RowsExtracted,RowsExpected,PctComplete,Complete,Error,AttemptsUsed,ImageFil
 50,162,162,100.0,True,,1,JPEGS\50.jpg,out\ocr_text\page_050.txt
 51,162,162,100.0,True,,1,JPEGS\51.jpg,out\ocr_text\page_051.txt
 52,162,162,100.0,True,,1,JPEGS\52.jpg,out\ocr_text\page_052.txt
-53,161,162,99.38,False,COUNT_MISMATCH 161 != 162,6,JPEGS\53.jpg,out\ocr_text\page_053.txt
+53,162,162,100.0,True,,1,JPEGS\53.jpg,out\ocr_text\page_053.txt
 54,162,162,100.0,True,,1,JPEGS\54.jpg,out\ocr_text\page_054.txt
 55,162,162,100.0,True,,1,JPEGS\55.jpg,out\ocr_text\page_055.txt
 56,162,162,100.0,True,,1,JPEGS\56.jpg,out\ocr_text\page_056.txt
@@ -59,8 +59,8 @@ Page,RowsExtracted,RowsExpected,PctComplete,Complete,Error,AttemptsUsed,ImageFil
 58,162,162,100.0,True,,1,JPEGS\58.jpg,out\ocr_text\page_058.txt
 59,162,162,100.0,True,,1,JPEGS\59.jpg,out\ocr_text\page_059.txt
 60,162,162,100.0,True,,1,JPEGS\60.jpg,out\ocr_text\page_060.txt
-61,156,162,96.3,False,COUNT_MISMATCH 156 != 162,6,JPEGS\61.jpg,out\ocr_text\page_061.txt
-62,156,162,96.3,False,COUNT_MISMATCH 156 != 162,6,JPEGS\62.jpg,out\ocr_text\page_062.txt
+61,162,162,100.0,True,,1,JPEGS\61.jpg,out\ocr_text\page_061.txt
+62,162,162,100.0,True,,1,JPEGS\62.jpg,out\ocr_text\page_062.txt
 63,162,162,100.0,True,,1,JPEGS\63.jpg,out\ocr_text\page_063.txt
 64,162,162,100.0,True,,1,JPEGS\64.jpg,out\ocr_text\page_064.txt
 65,162,162,100.0,True,,1,JPEGS\65.jpg,out\ocr_text\page_065.txt

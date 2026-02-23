@@ -1,18 +1,18 @@
 === OCR RUN SUMMARY ===
 
 Pages processed:            102
-Pages complete:             97/102 (95.10%)
-Pages flagged:              5
+Pages complete:             102/102 (100.00%)
+Pages flagged:              0
 
 === ROW COUNTS ===
 Target rows (your target):  16473
-Extracted rows (actual):    16454
-Missing vs your target:     19
-Completion vs your target:  99.88%
+Extracted rows (actual):    16473
+Missing vs your target:     0
+Completion vs your target:  100.00%
 
 Rule-based expected total:  16473
-Missing vs rule-based:      19
-Completion vs rule-based:   99.88%
+Missing vs rule-based:      0
+Completion vs rule-based:   100.00%
 
 === OUTPUT FILES ===
 All rows (includes failed): out\output.csv
