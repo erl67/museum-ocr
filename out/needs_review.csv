@@ -1,0 +1,6 @@
+Page,RowsExtracted,RowsExpected,Error,AttemptsUsed,ImageFile,OcrTextFile
+20,158,162,COUNT_MISMATCH 158 != 162,6,JPEGS\20.jpg,out\ocr_text\page_020.txt
+27,160,162,COUNT_MISMATCH 160 != 162,6,JPEGS\27.jpg,out\ocr_text\page_027.txt
+53,161,162,COUNT_MISMATCH 161 != 162,6,JPEGS\53.jpg,out\ocr_text\page_053.txt
+61,156,162,COUNT_MISMATCH 156 != 162,6,JPEGS\61.jpg,out\ocr_text\page_061.txt
+62,156,162,COUNT_MISMATCH 156 != 162,6,JPEGS\62.jpg,out\ocr_text\page_062.txt
