@@ -1,0 +1,25 @@
+=== OCR RUN SUMMARY ===
+
+Pages processed:            102
+Pages complete:             102/102 (100.00%)
+Pages flagged:              0
+
+=== ROW COUNTS ===
+Target rows (your target):  16473
+Extracted rows (actual):    16473
+Missing vs your target:     0
+Completion vs your target:  100.00%
+
+Rule-based expected total:  16473
+Missing vs rule-based:      0
+Completion vs rule-based:   100.00%
+
+=== OUTPUT FILES ===
+All rows (includes failed): out\output.csv
+Complete pages only:        out\output_complete_pages.csv
+Page counts:                out\page_counts.csv
+Needs review:               out\needs_review.csv
+Debug dumps:                out\ocr_text\page_###.txt
+
+=== CSV COLUMNS (ORDER) ===
+Page	Type	Accession	Code	Catalog	Deaccession	Date	Temp#	Genus	Species	PageComplete
