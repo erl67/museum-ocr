@@ -314,4 +314,4 @@ All 102 pages processed, all 16,473 expected records extracted, and identified t
 
 ## Disclaimer
 
-This is an independent volunteer project and is not an official publication of Carnegie Museums of Pittsburgh or Carnegie Museum of Natural History. The project is not sponsored or endorsed by either institution.
+This is an independent project and is not an official publication of Carnegie Museums of Pittsburgh or Carnegie Museum of Natural History. The project is not sponsored or endorsed by either institution.
